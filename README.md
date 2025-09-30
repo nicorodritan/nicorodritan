@@ -16,7 +16,11 @@ Apasionado por integrar la **ingeniería, la gestión de calidad y la tecnologí
 
 ## 📌 Proyectos destacados
 - 🛒 **E-commerce Full Stack** – React + Node.js + PostgreSQL  
-- 📊 **Dashboard Gimnasio** – React + Tailwind + APIs  
+
+
+### 🏋️‍♂️ [TrainUp - Dashboard de Gimnasio](https://github.com/Henry-FT63/TrainUpFrontend)
+Aplicación web tipo Smart Fit para la gestión de usuarios, entrenadores y rutinas personalizadas, con interfaz amigable y métricas visuales.  
+**Stack:** React, Node.js, PostgreSQL, TailwindCSS.  
 
 ---
 
