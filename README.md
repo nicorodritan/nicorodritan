@@ -16,8 +16,7 @@ Apasionado por integrar la **ingeniería, la gestión de calidad y la tecnologí
 
 ## 📌 Proyectos destacados
 - 🛒 **E-commerce Full Stack** – React + Node.js + PostgreSQL  
-- 📊 **Dashboard de Control de Calidad** – React + Tailwind + APIs  
-*(más proyectos en mis repositorios)*  
+- 📊 **Dashboard Gimnasio** – React + Tailwind + APIs  
 
 ---
 
