@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hola, soy Nicolas Rodriguez Gaitan  👋
 
-<!--
-**nicorodritan/nicorodritan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Ingeniero Industrial | Full Stack Developer**
+Apasionado por integrar la **ingeniería, la gestión de calidad y la tecnología** para optimizar procesos y crear soluciones digitales innovadoras.🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologías
+- **Frontend:** React, Tailwind, JavaScript, HTML, CSS  
+- **Backend:** Node.js, Express  
+- **Bases de datos:** PostgreSQL, SQL  
+- **Metodologías:** Scrum, BPMN  
+- **Gestión de calidad:** ISO 9001, HACCP, Inocuidad Alimentaria  
+
+---
+
+## 📌 Proyectos destacados
+- 🛒 **E-commerce Full Stack** – React + Node.js + PostgreSQL  
+- 📊 **Dashboard de Control de Calidad** – React + Tailwind + APIs  
+*(más proyectos en mis repositorios)*  
+
+---
+
+## 📫 Contacto
+- 📧 **Email:** [nicorodritan@gmail.com](mailto:nicorodritan@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nicolas-rodriguez-gaitan-7121bb278/)  
+
+---
+
+⭐️ *Siempre abierto a colaborar en proyectos que unan calidad, ingeniería y desarrollo de software.*  
